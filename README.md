@@ -9,7 +9,7 @@
 
 Follow these instructions to get a copy of the project running locally.
 
-### Prerequisites
+## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed
 - [npm](https://www.npmjs.com/) (comes with Node.js)
